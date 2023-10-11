@@ -108,6 +108,7 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <device id="H6NKXDK-QMK4AHQ-KJNHXAA-TLPU5AT-52GEWHK-N7JDL6Q-ZYWCD6L-EOOYUA6" name="AceArch" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="CE3MGOJ-IBMALGT-NOFZGUP-IWZNFYZ-SJOFJTD-FQRQCJX-S7R5TI6-QLCI3AT">
         <address>dynamic</address>
@@ -118,6 +119,7 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <device id="KK6QUAH-II3PNXZ-EEZHV4W-JY6NLLU-SX5HLDZ-6XMDITY-MR7LNJ7-WX5RVAD" name="PC" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="CE3MGOJ-IBMALGT-NOFZGUP-IWZNFYZ-SJOFJTD-FQRQCJX-S7R5TI6-QLCI3AT">
         <address>dynamic</address>
@@ -128,6 +130,7 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <device id="U62NQCY-V4VO3EU-JFHXHQ6-34QKBYZ-O73EQS4-TE4PSUT-BIPKXO3-CEFEVA5" name="ARCHLAPTOP" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="CE3MGOJ-IBMALGT-NOFZGUP-IWZNFYZ-SJOFJTD-FQRQCJX-S7R5TI6-QLCI3AT">
         <address>dynamic</address>
@@ -138,6 +141,7 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <device id="YXHGCR7-MCCVUH7-BPDDKAZ-Q7HIUCU-VIEPEVL-BWKOVBZ-CSTHENZ-GN3Q5AG" name="archlinux" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
@@ -148,6 +152,7 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <device id="YXWHEQA-7F4WXCM-WAFITS3-UUMEQQY-DMBEJFU-6MZIMXC-DYGM3M7-I624XQ6" name="Laptop" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="CE3MGOJ-IBMALGT-NOFZGUP-IWZNFYZ-SJOFJTD-FQRQCJX-S7R5TI6-QLCI3AT">
         <address>dynamic</address>
@@ -158,9 +163,12 @@
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
+        <numConnections>0</numConnections>
     </device>
     <gui enabled="true" tls="false" debugging="false">
         <address>127.0.0.1:8384</address>
+        <user>ace</user>
+        <password>$2a$10$nVXxNJ92OO2JRE6fdWpJK.Wv9pefRltBD.yCDdztl5NzMdII634x6</password>
         <apikey>Dm6o6aMy3emLjCJ3W3riMqehCMu9ccoj</apikey>
         <theme>default</theme>
     </gui>
@@ -271,6 +279,7 @@
             <maxRequestKiB>0</maxRequestKiB>
             <untrusted>false</untrusted>
             <remoteGUIPort>0</remoteGUIPort>
+            <numConnections>0</numConnections>
         </device>
         <ignores></ignores>
     </defaults>

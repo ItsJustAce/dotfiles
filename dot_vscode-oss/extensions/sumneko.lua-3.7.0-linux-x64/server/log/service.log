@@ -1,9 +1,9 @@
-[19:55:53.043][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:66]: Lua Lsp startup, root: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
-[19:55:53.043][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:67]: ROOT:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
-[19:55:53.043][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:68]: LOGPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log
-[19:55:53.043][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:69]: METAPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta
-[19:55:53.044][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:70]: VERSION:	3.7.0
-[19:55:53.076][info] [#0:script/service/service.lua:144]: 
+[16:09:52.740][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:66]: Lua Lsp startup, root: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:67]: ROOT:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:68]: LOGPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:69]: METAPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:70]: VERSION:	3.7.0
+[16:09:52.760][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.140 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[19:55:53.083][info] [#0:script/client.lua:657]: Client init	{
+[16:09:52.764][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     general = {
       markdown = {
@@ -309,23 +309,23 @@
   },
   clientInfo = {
     name = "Code - OSS",
-    version = "1.82.2"
+    version = "1.83.0"
   },
   initializationOptions = {
     changeConfiguration = true
   },
   locale = "en",
-  processId = 6142,
-  rootPath = "/home/ace/Documents/Code/Love Snake",
-  rootUri = "file:///home/ace/Documents/Code/Love%20Snake",
+  processId = 13357,
+  rootPath = "/home/ace/.config/awesome",
+  rootUri = "file:///home/ace/.config/awesome",
   trace = "off",
-  workDoneToken = "84967489-a0e3-4c21-9f52-d4e9c360f235",
+  workDoneToken = "a4b0237f-0ac8-4de1-9da6-62036a256a52",
   workspaceFolders = { {
-      name = "Love Snake",
-      uri = "file:///home/ace/Documents/Code/Love%20Snake"
+      name = "awesome",
+      uri = "file:///home/ace/.config/awesome"
     } }
 }
-[19:55:53.083][info] [#0:script/language.lua:137]: VSC language: en
-[19:55:53.083][info] [#0:script/language.lua:138]: LS  language: en-us
-[19:55:53.083][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/ace/Documents/Code/Love%20Snake
-[19:55:53.083][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log/file_home_ace_Documents_Code_Love%20Snake.log
+[16:09:52.764][info] [#0:script/language.lua:137]: VSC language: en
+[16:09:52.764][info] [#0:script/language.lua:138]: LS  language: en-us
+[16:09:52.764][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/ace/.config/awesome
+[16:09:52.764][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log/file_home_ace_.config_awesome.log

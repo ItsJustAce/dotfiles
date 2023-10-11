@@ -1,9 +1,9 @@
-[14:45:13.840][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:66]: Lua Lsp startup, root: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
-[14:45:13.840][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:67]: ROOT:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
-[14:45:13.840][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:68]: LOGPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log
-[14:45:13.840][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:69]: METAPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta
-[14:45:13.840][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:70]: VERSION:	3.7.0
-[14:45:13.867][info] [#0:script/service/service.lua:144]: 
+[16:09:52.740][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:66]: Lua Lsp startup, root: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:67]: ROOT:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:68]: LOGPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:69]: METAPATH:	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta
+[16:09:52.741][info] [#0:/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/main.lua:70]: VERSION:	3.7.0
+[16:09:52.760][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 2.140 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[14:45:13.871][info] [#0:script/client.lua:657]: Client init	{
+[16:09:52.764][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     general = {
       markdown = {
@@ -309,29 +309,29 @@
   },
   clientInfo = {
     name = "Code - OSS",
-    version = "1.82.2"
+    version = "1.83.0"
   },
   initializationOptions = {
     changeConfiguration = true
   },
   locale = "en",
-  processId = 44180,
+  processId = 13357,
   rootPath = "/home/ace/.config/awesome",
   rootUri = "file:///home/ace/.config/awesome",
   trace = "off",
-  workDoneToken = "4b812689-28fa-4835-bf50-16e9aaa6cbf0",
+  workDoneToken = "a4b0237f-0ac8-4de1-9da6-62036a256a52",
   workspaceFolders = { {
       name = "awesome",
       uri = "file:///home/ace/.config/awesome"
     } }
 }
-[14:45:13.871][info] [#0:script/language.lua:137]: VSC language: en
-[14:45:13.871][info] [#0:script/language.lua:138]: LS  language: en-us
-[14:45:13.871][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/ace/.config/awesome
-[14:45:13.871][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log/file_home_ace_.config_awesome.log
-[14:45:13.871][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/ace/.config/awesome
-[14:45:14.073][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/ace/.config/awesome
-[14:45:14.074][info] [#0:script/provider/provider.lua:47]: {
+[16:09:52.764][info] [#0:script/language.lua:137]: VSC language: en
+[16:09:52.764][info] [#0:script/language.lua:138]: LS  language: en-us
+[16:09:52.764][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/ace/.config/awesome
+[16:09:52.764][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/log/file_home_ace_.config_awesome.log
+[16:09:52.765][info] [#0:script/workspace/workspace.lua:48]: Workspace create: 	file:///home/ace/.config/awesome
+[16:09:52.868][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/ace/.config/awesome
+[16:09:52.868][info] [#0:script/provider/provider.lua:47]: {
   Lua = {
     addonManager = {
       enable = true
@@ -461,9 +461,9 @@
     ["**/Thumbs.db"] = true
   }
 }
-[14:45:14.175][info] [#0:script/provider/completion.lua:43]: Enable completion.
-[14:45:14.175][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[14:45:14.176][info] [#0:script/provider/provider.lua:62]: {
+[16:09:52.868][info] [#0:script/provider/completion.lua:43]: Enable completion.
+[16:09:52.969][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
+[16:09:52.969][info] [#0:script/provider/provider.lua:62]: {
   Lua = {
     addonManager = {
       enable = true
@@ -593,675 +593,105 @@
     ["**/Thumbs.db"] = true
   }
 }
-[14:45:14.377][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/ace/.config/awesome
-[14:45:14.394][info] [#0:script/plugin.lua:86]: plugin path:	/home/ace/.config/awesome
-[14:45:14.394][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/ace/.config/awesome
-[14:45:14.395][info] [#0:script/library.lua:212]: Init builtin library at:	nil
-[14:45:14.503][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/ace/.config/awesome
-[14:45:14.506][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/ace/.config/awesome
-[14:45:14.510][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
-[14:45:14.512][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[14:45:14.513][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[14:45:14.513][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[14:45:14.513][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[14:45:14.514][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[14:45:14.514][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[14:45:14.514][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[14:45:14.515][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[14:45:14.515][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[14:45:14.515][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/ace/.config/awesome
-[14:45:14.516][info] [#0:script/provider/provider.lua:47]: {
-  Lua = {
-    addonManager = {
-      enable = true
-    },
-    codeLens = {
-      enable = false
-    },
-    completion = {
-      autoRequire = true,
-      callSnippet = "Disable",
-      displayContext = 0,
-      enable = true,
-      keywordSnippet = "Replace",
-      postfix = "@",
-      requireSeparator = ".",
-      showParams = true,
-      showWord = "Fallback",
-      workspaceWord = true
-    },
-    diagnostics = {
-      disable = {},
-      disableScheme = { "git" },
-      enable = true,
-      globals = {},
-      groupFileStatus = {},
-      groupSeverity = {},
-      ignoredFiles = "Opened",
-      libraryFiles = "Opened",
-      neededFileStatus = {},
-      severity = {},
-      unusedLocalExclude = {},
-      workspaceDelay = 3000,
-      workspaceEvent = "OnSave",
-      workspaceRate = 100
-    },
-    doc = {
-      packageName = {},
-      privateName = {},
-      protectedName = {}
-    },
-    format = {
-      defaultConfig = {},
-      enable = true
-    },
-    hint = {
-      arrayIndex = "Auto",
-      await = true,
-      enable = false,
-      paramName = "All",
-      paramType = true,
-      semicolon = "SameLine",
-      setType = false
-    },
-    hover = {
-      enable = true,
-      enumsLimit = 5,
-      expandAlias = true,
-      previewFields = 50,
-      viewNumber = true,
-      viewString = true,
-      viewStringMax = 1000
-    },
-    misc = {
-      executablePath = "",
-      parameters = {}
-    },
-    nameStyle = {
-      config = {}
-    },
-    runtime = {
-      builtin = {},
-      fileEncoding = "utf8",
-      meta = "${version} ${language} ${encoding}",
-      nonstandardSymbol = {},
-      path = { "?.lua", "?/init.lua" },
-      pathStrict = false,
-      plugin = "",
-      pluginArgs = {},
-      special = {},
-      unicodeName = false,
-      version = "Lua 5.4"
-    },
-    semantic = {
-      annotation = true,
-      enable = true,
-      keyword = false,
-      variable = true
-    },
-    signatureHelp = {
-      enable = true
-    },
-    spell = {
-      dict = {}
-    },
-    type = {
-      castNumberToInteger = true,
-      weakNilCheck = false,
-      weakUnionCheck = false
-    },
-    typeFormat = {
-      config = {}
-    },
-    window = {
-      progressBar = true,
-      statusBar = true
-    },
-    workspace = {
-      checkThirdParty = true,
-      ignoreDir = { ".vscode" },
-      ignoreSubmodules = true,
-      library = {},
-      maxPreload = 5000,
-      preloadFileSize = 500,
-      useGitIgnore = true,
-      userThirdParty = {}
-    }
-  },
-  ["editor.acceptSuggestionOnEnter"] = "on",
-  ["editor.semanticHighlighting.enabled"] = "configuredByTheme",
-  ["files.associations"] = {},
-  ["files.exclude"] = {
-    ["**/.DS_Store"] = true,
-    ["**/.git"] = true,
-    ["**/.hg"] = true,
-    ["**/.svn"] = true,
-    ["**/CVS"] = true,
-    ["**/Thumbs.db"] = true
-  }
-}
-[14:45:14.516][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[14:45:14.517][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[14:45:14.518][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[14:45:14.519][info] [#0:script/provider/provider.lua:62]: {
-  Lua = {
-    addonManager = {
-      enable = true
-    },
-    codeLens = {
-      enable = false
-    },
-    completion = {
-      autoRequire = true,
-      callSnippet = "Disable",
-      displayContext = 0,
-      enable = true,
-      keywordSnippet = "Replace",
-      postfix = "@",
-      requireSeparator = ".",
-      showParams = true,
-      showWord = "Fallback",
-      workspaceWord = true
-    },
-    diagnostics = {
-      disable = {},
-      disableScheme = { "git" },
-      enable = true,
-      globals = {},
-      groupFileStatus = {},
-      groupSeverity = {},
-      ignoredFiles = "Opened",
-      libraryFiles = "Opened",
-      neededFileStatus = {},
-      severity = {},
-      unusedLocalExclude = {},
-      workspaceDelay = 3000,
-      workspaceEvent = "OnSave",
-      workspaceRate = 100
-    },
-    doc = {
-      packageName = {},
-      privateName = {},
-      protectedName = {}
-    },
-    format = {
-      defaultConfig = {},
-      enable = true
-    },
-    hint = {
-      arrayIndex = "Auto",
-      await = true,
-      enable = false,
-      paramName = "All",
-      paramType = true,
-      semicolon = "SameLine",
-      setType = false
-    },
-    hover = {
-      enable = true,
-      enumsLimit = 5,
-      expandAlias = true,
-      previewFields = 50,
-      viewNumber = true,
-      viewString = true,
-      viewStringMax = 1000
-    },
-    misc = {
-      executablePath = "",
-      parameters = {}
-    },
-    nameStyle = {
-      config = {}
-    },
-    runtime = {
-      builtin = {},
-      fileEncoding = "utf8",
-      meta = "${version} ${language} ${encoding}",
-      nonstandardSymbol = {},
-      path = { "?.lua", "?/init.lua" },
-      pathStrict = false,
-      plugin = "",
-      pluginArgs = {},
-      special = {},
-      unicodeName = false,
-      version = "Lua 5.4"
-    },
-    semantic = {
-      annotation = true,
-      enable = true,
-      keyword = false,
-      variable = true
-    },
-    signatureHelp = {
-      enable = true
-    },
-    spell = {
-      dict = {}
-    },
-    type = {
-      castNumberToInteger = true,
-      weakNilCheck = false,
-      weakUnionCheck = false
-    },
-    typeFormat = {
-      config = {}
-    },
-    window = {
-      progressBar = true,
-      statusBar = true
-    },
-    workspace = {
-      checkThirdParty = true,
-      ignoreDir = { ".vscode" },
-      ignoreSubmodules = true,
-      library = {},
-      maxPreload = 5000,
-      preloadFileSize = 500,
-      useGitIgnore = true,
-      userThirdParty = {}
-    }
-  },
-  ["editor.acceptSuggestionOnEnter"] = "on",
-  ["editor.semanticHighlighting.enabled"] = "configuredByTheme",
-  ["files.associations"] = {},
-  ["files.exclude"] = {
-    ["**/.DS_Store"] = true,
-    ["**/.git"] = true,
-    ["**/.hg"] = true,
-    ["**/.svn"] = true,
-    ["**/CVS"] = true,
-    ["**/Thumbs.db"] = true
-  }
-}
-[14:45:14.526][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[14:45:14.526][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[14:45:14.526][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[14:45:14.527][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[14:45:14.528][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[14:45:14.628][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
-[14:45:14.628][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
-[14:45:14.628][info] [#0:script/workspace/workspace.lua:379]: Found 76 files at:	file:///home/ace/.config/awesome
-[14:45:14.628][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///home/ace/.config/awesome
-[14:45:14.629][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
-[14:45:14.638][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[14:45:14.638][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
-[14:45:14.639][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[14:45:14.639][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
-[14:45:14.639][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.230 KB
-[14:45:14.643][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[14:45:14.643][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
-[14:45:14.643][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
-[14:45:14.646][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[14:45:14.646][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
-[14:45:14.646][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.600 KB
-[14:45:14.651][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[14:45:14.651][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
-[14:45:14.651][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 6.341 KB
-[14:45:14.659][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[14:45:14.659][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
-[14:45:14.659][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.509 KB
-[14:45:14.666][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[14:45:14.667][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
-[14:45:14.667][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
-[14:45:14.673][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[14:45:14.673][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
-[14:45:14.673][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.336 KB
-[14:45:14.685][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[14:45:14.685][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
-[14:45:14.685][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
-[14:45:14.686][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[14:45:14.686][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
-[14:45:14.686][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
-[14:45:14.688][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[14:45:14.688][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
-[14:45:14.688][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[14:45:14.688][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
-[14:45:14.688][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.062] sec: <fallback>
-[14:45:14.688][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
-[14:45:14.688][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
-[14:45:14.688][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
-[14:45:14.696][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bar/init.lua , size = 1.145 KB
-[14:45:14.698][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bar/oth.lua , size = 0.945 KB
-[14:45:14.700][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bar/sys.lua , size = 4.965 KB
-[14:45:14.705][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bar/tag.lua , size = 1.775 KB
-[14:45:14.707][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bar/task.lua , size = 0.729 KB
-[14:45:14.707][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/client.lua , size = 3.419 KB
-[14:45:14.709][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/color.lua , size = 4.519 KB
-[14:45:14.715][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/filesystem.lua , size = 1.930 KB
-[14:45:14.716][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/init.lua , size = 0.206 KB
-[14:45:14.717][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/icon_theme.lua , size = 3.948 KB
-[14:45:14.719][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/shape.lua , size = 0.563 KB
-[14:45:14.719][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/helpers/time.lua , size = 0.753 KB
-[14:45:14.720][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/init.lua , size = 0.278 KB
-[14:45:14.720][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/centered.lua , size = 2.425 KB
-[14:45:14.721][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/deck.lua , size = 0.922 KB
-[14:45:14.722][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/equalarea.lua , size = 2.274 KB
-[14:45:14.723][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/horizontal.lua , size = 1.417 KB
-[14:45:14.724][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/init.lua , size = 1.128 KB
-[14:45:14.725][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/mstab.lua , size = 7.821 KB
-[14:45:14.728][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/layout/vertical.lua , size = 1.403 KB
-[14:45:14.729][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/init.lua , size = 0.308 KB
-[14:45:14.730][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/flash_focus.lua , size = 0.943 KB
-[14:45:14.730][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/tabbed.lua , size = 8.922 KB
-[14:45:14.734][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/tiled_wallpaper.lua , size = 1.633 KB
-[14:45:14.735][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/scratchpad.lua , size = 11.934 KB
-[14:45:14.741][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/wallpaper.lua , size = 13.737 KB
-[14:45:14.745][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/signal/init.lua , size = 0.056 KB
-[14:45:14.749][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/module/window_swallowing.lua , size = 3.937 KB
-[14:45:14.751][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/signal/playerctl/init.lua , size = 1.291 KB
-[14:45:14.751][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/signal/playerctl/playerctl_cli.lua , size = 11.174 KB
-[14:45:14.756][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/signal/playerctl/playerctl_lib.lua , size = 16.785 KB
-[14:45:14.764][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/theme-var-template.lua , size = 6.465 KB
-[14:45:14.766][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/app_launcher/prompt.lua , size = 25.682 KB
-[14:45:14.778][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/app_launcher/init.lua , size = 39.620 KB
-[14:45:14.795][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/init.lua , size = 0.267 KB
-[14:45:14.795][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbar/boxes.lua , size = 1.987 KB
-[14:45:14.796][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbar/default.lua , size = 2.209 KB
-[14:45:14.797][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbar/pure.lua , size = 3.122 KB
-[14:45:14.799][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbar/modern.lua , size = 7.909 KB
-[14:45:14.808][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbed_misc/custom_tasklist.lua , size = 1.124 KB
-[14:45:14.809][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbed_misc/init.lua , size = 0.259 KB
-[14:45:14.810][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tabbed_misc/titlebar_indicator.lua , size = 3.286 KB
-[14:45:14.811][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/tag_preview.lua , size = 8.088 KB
-[14:45:14.814][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/task_preview.lua , size = 6.291 KB
-[14:45:14.816][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/bling/widget/window_switcher.lua , size = 15.603 KB
-[14:45:14.821][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/client.lua , size = 0.480 KB
-[14:45:14.822][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/dashboard/init.lua , size = 2.927 KB
-[14:45:14.824][info] [#0:script/provider/provider.lua:46]: Load config from client	file:///home/ace/.config/awesome
-[14:45:14.824][info] [#0:script/provider/provider.lua:47]: {
-  Lua = {
-    addonManager = {
-      enable = true
-    },
-    codeLens = {
-      enable = false
-    },
-    completion = {
-      autoRequire = true,
-      callSnippet = "Disable",
-      displayContext = 0,
-      enable = true,
-      keywordSnippet = "Replace",
-      postfix = "@",
-      requireSeparator = ".",
-      showParams = true,
-      showWord = "Fallback",
-      workspaceWord = true
-    },
-    diagnostics = {
-      disable = {},
-      disableScheme = { "git" },
-      enable = true,
-      globals = {},
-      groupFileStatus = {},
-      groupSeverity = {},
-      ignoredFiles = "Opened",
-      libraryFiles = "Opened",
-      neededFileStatus = {},
-      severity = {},
-      unusedLocalExclude = {},
-      workspaceDelay = 3000,
-      workspaceEvent = "OnSave",
-      workspaceRate = 100
-    },
-    doc = {
-      packageName = {},
-      privateName = {},
-      protectedName = {}
-    },
-    format = {
-      defaultConfig = {},
-      enable = true
-    },
-    hint = {
-      arrayIndex = "Auto",
-      await = true,
-      enable = false,
-      paramName = "All",
-      paramType = true,
-      semicolon = "SameLine",
-      setType = false
-    },
-    hover = {
-      enable = true,
-      enumsLimit = 5,
-      expandAlias = true,
-      previewFields = 50,
-      viewNumber = true,
-      viewString = true,
-      viewStringMax = 1000
-    },
-    misc = {
-      executablePath = "",
-      parameters = {}
-    },
-    nameStyle = {
-      config = {}
-    },
-    runtime = {
-      builtin = {},
-      fileEncoding = "utf8",
-      meta = "${version} ${language} ${encoding}",
-      nonstandardSymbol = {},
-      path = { "?.lua", "?/init.lua" },
-      pathStrict = false,
-      plugin = "",
-      pluginArgs = {},
-      special = {},
-      unicodeName = false,
-      version = "Lua 5.4"
-    },
-    semantic = {
-      annotation = true,
-      enable = true,
-      keyword = false,
-      variable = true
-    },
-    signatureHelp = {
-      enable = true
-    },
-    spell = {
-      dict = {}
-    },
-    type = {
-      castNumberToInteger = true,
-      weakNilCheck = false,
-      weakUnionCheck = false
-    },
-    typeFormat = {
-      config = {}
-    },
-    window = {
-      progressBar = true,
-      statusBar = true
-    },
-    workspace = {
-      checkThirdParty = true,
-      ignoreDir = { ".vscode" },
-      ignoreSubmodules = true,
-      library = {},
-      maxPreload = 5000,
-      preloadFileSize = 500,
-      useGitIgnore = true,
-      userThirdParty = {}
-    }
-  },
-  ["editor.acceptSuggestionOnEnter"] = "on",
-  ["editor.semanticHighlighting.enabled"] = "configuredByTheme",
-  ["files.associations"] = {},
-  ["files.exclude"] = {
-    ["**/.DS_Store"] = true,
-    ["**/.git"] = true,
-    ["**/.hg"] = true,
-    ["**/.svn"] = true,
-    ["**/CVS"] = true,
-    ["**/Thumbs.db"] = true
-  }
-}
-[14:45:14.825][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/dashboard/oth.lua , size = 5.200 KB
-[14:45:14.829][info] [#0:script/provider/provider.lua:61]: Load config from client	fallback
-[14:45:14.829][info] [#0:script/provider/provider.lua:62]: {
-  Lua = {
-    addonManager = {
-      enable = true
-    },
-    codeLens = {
-      enable = false
-    },
-    completion = {
-      autoRequire = true,
-      callSnippet = "Disable",
-      displayContext = 0,
-      enable = true,
-      keywordSnippet = "Replace",
-      postfix = "@",
-      requireSeparator = ".",
-      showParams = true,
-      showWord = "Fallback",
-      workspaceWord = true
-    },
-    diagnostics = {
-      disable = {},
-      disableScheme = { "git" },
-      enable = true,
-      globals = {},
-      groupFileStatus = {},
-      groupSeverity = {},
-      ignoredFiles = "Opened",
-      libraryFiles = "Opened",
-      neededFileStatus = {},
-      severity = {},
-      unusedLocalExclude = {},
-      workspaceDelay = 3000,
-      workspaceEvent = "OnSave",
-      workspaceRate = 100
-    },
-    doc = {
-      packageName = {},
-      privateName = {},
-      protectedName = {}
-    },
-    format = {
-      defaultConfig = {},
-      enable = true
-    },
-    hint = {
-      arrayIndex = "Auto",
-      await = true,
-      enable = false,
-      paramName = "All",
-      paramType = true,
-      semicolon = "SameLine",
-      setType = false
-    },
-    hover = {
-      enable = true,
-      enumsLimit = 5,
-      expandAlias = true,
-      previewFields = 50,
-      viewNumber = true,
-      viewString = true,
-      viewStringMax = 1000
-    },
-    misc = {
-      executablePath = "",
-      parameters = {}
-    },
-    nameStyle = {
-      config = {}
-    },
-    runtime = {
-      builtin = {},
-      fileEncoding = "utf8",
-      meta = "${version} ${language} ${encoding}",
-      nonstandardSymbol = {},
-      path = { "?.lua", "?/init.lua" },
-      pathStrict = false,
-      plugin = "",
-      pluginArgs = {},
-      special = {},
-      unicodeName = false,
-      version = "Lua 5.4"
-    },
-    semantic = {
-      annotation = true,
-      enable = true,
-      keyword = false,
-      variable = true
-    },
-    signatureHelp = {
-      enable = true
-    },
-    spell = {
-      dict = {}
-    },
-    type = {
-      castNumberToInteger = true,
-      weakNilCheck = false,
-      weakUnionCheck = false
-    },
-    typeFormat = {
-      config = {}
-    },
-    window = {
-      progressBar = true,
-      statusBar = true
-    },
-    workspace = {
-      checkThirdParty = true,
-      ignoreDir = { ".vscode" },
-      ignoreSubmodules = true,
-      library = {},
-      maxPreload = 5000,
-      preloadFileSize = 500,
-      useGitIgnore = true,
-      userThirdParty = {}
-    }
-  },
-  ["editor.acceptSuggestionOnEnter"] = "on",
-  ["editor.semanticHighlighting.enabled"] = "configuredByTheme",
-  ["files.associations"] = {},
-  ["files.exclude"] = {
-    ["**/.DS_Store"] = true,
-    ["**/.git"] = true,
-    ["**/.hg"] = true,
-    ["**/.svn"] = true,
-    ["**/CVS"] = true,
-    ["**/Thumbs.db"] = true
-  }
-}
-[14:45:14.836][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/dashboard/play.lua , size = 2.869 KB
-[14:45:14.838][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/dashboard/sli.lua , size = 2.034 KB
-[14:45:14.841][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/dashboard/wid.lua , size = 6.095 KB
-[14:45:14.845][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/help.lua , size = 1.023 KB
-[14:45:14.846][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/notifications.lua , size = 0.708 KB
-[14:45:14.847][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/menu.lua , size = 0.600 KB
-[14:45:14.847][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/popup.lua , size = 1.380 KB
-[14:45:14.848][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/power.lua , size = 2.026 KB
-[14:45:14.850][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/rc.lua , size = 1.188 KB
-[14:45:14.851][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/rules.lua , size = 1.025 KB
-[14:45:14.851][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/signals.lua , size = 2.013 KB
-[14:45:14.853][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/theme/cyberpunk/colors.lua , size = 0.210 KB
-[14:45:14.853][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/theme/dark/colors.lua , size = 0.210 KB
-[14:45:14.853][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/theme/light/colors.lua , size = 0.210 KB
-[14:45:14.854][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/theme/init.lua , size = 3.718 KB
-[14:45:14.855][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/titlebar.lua , size = 1.274 KB
-[14:45:14.957][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/keys.lua , size = 4.420 KB
-[14:45:15.126][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.305] sec: file:///home/ace/.config/awesome
-[14:45:15.127][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///home/ace/.config/awesome
-[14:45:15.127][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///home/ace/.config/awesome
-[14:45:15.127][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/ace/.config/awesome
-[14:45:15.133][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[76]
-[14:45:15.133][info] [#0:script/library.lua:546]: Found 3rd library by word: 	()love%.%w+()	file:///home/ace/Love/main.lua	${3rd}/love2d/library	{}
-[14:45:15.133][info] [#0:script/client.lua:132]: requestMessage	Info	Do you need to configure your work environment as `LÖVE`?
-[14:45:16.102][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.968] sec.
-[14:46:04.069][info] [#0:script/provider/provider.lua:169]: Server shutdown.
-[14:46:04.069][warn] [#0:script/proto/proto.lua:138]: Response of [window/showMessageRequest] error [-32603]: Request window/showMessageRequest failed with message: Canceled
-[14:46:04.069][info] [#0:script/client.lua:138]: responseMessage	Do you need to configure your work environment as `LÖVE`?	nil
-[14:46:04.069][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!
+[16:09:53.170][info] [#0:script/library.lua:212]: Init builtin library at:	file:///home/ace/.config/awesome
+[16:09:53.201][info] [#0:script/plugin.lua:86]: plugin path:	/home/ace/.config/awesome
+[16:09:53.201][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/ace/.config/awesome
+[16:09:53.201][info] [#0:script/library.lua:212]: Init builtin library at:	nil
+[16:09:53.316][info] [#0:script/workspace/workspace.lua:324]: Preload start:	file:///home/ace/.config/awesome
+[16:09:53.319][info] [#0:script/workspace/workspace.lua:330]: Scan files at:	file:///home/ace/.config/awesome
+[16:09:53.320][info] [#0:script/workspace/workspace.lua:324]: Preload start:	<fallback>
+[16:09:53.323][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[16:09:53.324][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[16:09:53.324][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[16:09:53.324][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[16:09:53.325][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[16:09:53.325][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[16:09:53.325][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[16:09:53.325][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[16:09:53.325][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[16:09:53.326][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[16:09:53.326][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[16:09:53.328][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[16:09:53.329][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[16:09:53.329][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[16:09:53.329][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[16:09:53.329][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[16:09:53.329][info] [#0:script/workspace/workspace.lua:353]: Scan library at:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[16:09:53.429][info] [#0:script/workspace/workspace.lua:379]: Found 11 files at:	<fallback>
+[16:09:53.429][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	<fallback>
+[16:09:53.429][info] [#0:script/workspace/workspace.lua:379]: Found 13 files at:	file:///home/ace/.config/awesome
+[16:09:53.429][info] [#0:script/workspace/loading.lua:161]: Load files from disk:	file:///home/ace/.config/awesome
+[16:09:53.431][info] [#0:script/workspace/loading.lua:89]: Skip loaded file: file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:09:53.531][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua , size = 6.364 KB
+[16:09:53.538][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[16:09:53.538][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua , size = 0.302 KB
+[16:09:53.539][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[16:09:53.539][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/builtin.lua
+[16:09:53.539][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/io.lua
+[16:09:53.539][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua , size = 4.230 KB
+[16:09:53.545][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[16:09:53.545][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua , size = 2.386 KB
+[16:09:53.548][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[16:09:53.548][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/table.lua
+[16:09:53.548][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/utf8.lua
+[16:09:53.548][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua , size = 5.600 KB
+[16:09:53.553][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[16:09:53.553][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/os.lua
+[16:09:53.553][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua , size = 6.341 KB
+[16:09:53.561][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[16:09:53.561][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua , size = 8.509 KB
+[16:09:53.569][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[16:09:53.569][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/string.lua
+[16:09:53.569][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua , size = 7.637 KB
+[16:09:53.577][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[16:09:53.577][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/math.lua
+[16:09:53.577][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/debug.lua
+[16:09:53.577][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua , size = 15.336 KB
+[16:09:53.589][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[16:09:53.589][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua , size = 2.944 KB
+[16:09:53.590][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[16:09:53.590][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/package.lua
+[16:09:53.590][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/basic.lua
+[16:09:53.590][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua , size = 2.590 KB
+[16:09:53.592][info] [#0:script/workspace/loading.lua:113]: ++++As library of:	file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[16:09:53.592][info] [#0:script/workspace/loading.lua:98]: Skip loaded file: file:///home/ace/.vscode-oss/extensions/sumneko.lua-3.7.0-linux-x64/server/meta/Lua%205.4%20en-us%20utf8/coroutine.lua
+[16:09:53.592][info] [#0:script/workspace/loading.lua:101]: Preload file at: file:///home/ace/.config/awesome/rc.lua , size = 22.722 KB
+[16:09:53.702][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.076] sec: <fallback>
+[16:09:53.702][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: <fallback>
+[16:09:53.702][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	<fallback>
+[16:09:53.702][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	<fallback>
+[16:09:53.705][info] [#0:script/workspace/loading.lua:173]: Loaded files takes [0.079] sec: file:///home/ace/.config/awesome
+[16:09:53.705][info] [#0:script/workspace/loading.lua:182]: Compile files takes [0.000] sec: file:///home/ace/.config/awesome
+[16:09:53.705][info] [#0:script/workspace/loading.lua:183]: Loaded finish:	file:///home/ace/.config/awesome
+[16:09:53.705][info] [#0:script/workspace/workspace.lua:381]: Preload finish at:	file:///home/ace/.config/awesome
+[16:09:53.715][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:09:53.788][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.071] sec.
+[16:13:08.737][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:13:11.620][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:13:20.532][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:13:54.797][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:13:58.437][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:13:58.510][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.073] sec.
+[16:14:02.347][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:14:05.683][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:14:05.750][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.067] sec.
+[16:14:39.285][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:14:39.361][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.076] sec.
+[16:14:53.286][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:14:53.362][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.076] sec.
+[16:15:01.587][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:15:01.669][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.082] sec.
+[16:15:12.243][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:15:22.936][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:15:23.010][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.073] sec.
+[16:15:25.843][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:15:36.889][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:15:36.962][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.074] sec.
+[16:15:43.052][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/ace/.config/awesome/themes/zenburn/theme.lua
+[16:16:07.692][info] [#0:script/provider/diagnostic.lua:557]: Diagnostics scope [file:///home/ace/.config/awesome], files count:[13]
+[16:16:07.764][info] [#0:script/provider/diagnostic.lua:574]: Diagnostics scope [file:///home/ace/.config/awesome] finished, takes [0.072] sec.
